@@ -2,6 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Your app needs access to the camera.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Your message here explaining why you need location access.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Your message here explaining why you need always access.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>This app uses speech recognition to convert your speech to text.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>This app uses the microphone to capture your speech.</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
